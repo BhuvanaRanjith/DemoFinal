@@ -6,6 +6,10 @@ public class Main {
         System.out.println("hello world");
         System.out.println("hello woddrld");
         System.out.println("hello worddld");
+      public static void hell()
+        {
+
+        }
 
     }
 }
